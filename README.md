@@ -157,3 +157,7 @@ La clase `SR_Receiver` implementa un receptor que utiliza el protocolo Selective
 ---
 
 ¡Este es solo un resumen del archivo `servermain.cpp`! Asegúrate de revisar el código fuente completo para poder hacer mejoras!. 
+
+# License
+
+This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
